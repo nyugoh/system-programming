@@ -1,0 +1,3 @@
+/media/joe/Jarvis/Ripos/System Programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/joe/Jarvis/Ripos/System Programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/joe/Jarvis/Ripos/System Programming/cmake-build-debug/CMakeFiles/System_Programming.dir

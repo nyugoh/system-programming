@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/joe/Jarvis/Ripos/System Programming/main.c
+sys/stat.h
+-
+fcntl.h
+-
+stdio.h
+-
+
