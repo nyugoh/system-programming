@@ -33,3 +33,5 @@ Types of modes:
  - the read sys call reads data from a open file refereed to as by the file discriptor, `fd`
   #### Syntax
   `ssize_t read(fd, void* buffer, size_t count)`
+
+  A successful to read returns the number of bytes actually read or zero if EOF is encountered
