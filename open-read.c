@@ -1,6 +1,6 @@
 #include <sys/stat.h>
-#include <fcntl.h>
-#include <unistd.h>
+#include <fcntl.h> //contains open function
+#include <unistd.h> // contains read
 #include <stdio.h>
 // Constants
 #define BUFFER_SIZE 1000
